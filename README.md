@@ -1,4 +1,5 @@
 # devops-aula02
 #Scarlet Johasson
-#Megan Fox
+#Jason Stateham
 #Morgan Freeman
+#Antonio Banderas
